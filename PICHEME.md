@@ -1,4 +1,4 @@
-#Learning JAVA #1
+#Learning JAVA
 ---
 Content for programming beginners.
 ---
