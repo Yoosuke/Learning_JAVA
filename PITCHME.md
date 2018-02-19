@@ -15,14 +15,10 @@ class main {
 ### まずは出力して見よう！
 ```
 package Main;
-/*
-YOSUKE
-2018.02 Main Package Main Class
-*/
 public class main {
 	public static void main(String[] args) {
-		System.out.println("Hello,World!"); //ハローワード
-		System.out.println("Hello,JAVA!!"); //ハロージャバ		
+		System.out.print("Hello,World! "); 
+		System.out.println("Hello,JAVA!!");		
 		System.out.println("Hello,YOSUKE!");		
 	}
 }
